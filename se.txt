@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Experiment no.1</title>
+</head>
+<body>
+	<table style="width: 50%; background-color: rgb(126, 219, 231);">
+		<tr>
+			<td ><img src="img2.jpg" style="width: 130px; :height:120px" ></td>
+			<td style="background-color: rgb(162, 202, 206)"><p><b>Komal Warpe</b><br>Web Developer</p></td>
+		</tr>
+		<tr>
+			<td><p><b>Contact</b><br>Email:komalw04@gmail.com<br>Mobile no.:9864576543</p>
+			</td>
+			<td style="background-color: rgb(162, 202, 206)"><p><b>Summary</b><br>
+				To secure a challenging position in a reputable organization<br>to expand my learning knowledge and skill</p>
+			</td>
+		</tr>
+		<tr>
+			<td><p><b>Skills</b><br>
+				<ul>
+					<li>Programming Languages:Python,Java</li>
+                    <li>Frontend : HTML5, CSS3, JavaScript</li>
+                    <li> Backend : Node.js</li>
+				</ul></p>
+			</td>
+			<td style="background-color: rgb(162, 202, 206)"><p><b>Expirence</b><br>Abc webdev pvt ltd - Senior Web Developer<br>January 2022 to Present</p>
+				<ul>
+                    <li>
+                        Actively engaged in web creative
+                        design and development.
+                    </li>
+                    <li>
+                        Designing project & planning
+                    </li>
+                </ul>
+			</td>
+		</tr>
+		<tr>
+			<td><p><b>Languages</b><br>
+				<ul>
+					<li>English</li>
+					<li>Hindi</li>
+				</ul></p>
+			</td>
+			<td style="background-color: rgb(162, 202, 206)"><p><b>Education</b><br>
+				<table border="1">
+					<tr>
+                        <th>University/college  </th>
+                        <th>Passing year  </th>
+                        <th>percentage/cgpa</th>
+                    </tr>
+                    <tr>
+                        <td>xyz</td>
+                        <td>2020</td>
+                        <td>8.9</td>
+                    </tr>
+                    <tr>
+                        <td>pqr</td>
+                        <td>2018</td>
+                        <td>89%</td>
+                    </tr>
+                </table></p>
+			</td>
+		</tr>
+		<tr>
+			<td><p><b>Hobbies</b><br>
+				<ul>
+					<li>Reading Novels</li>
+					<li>Dancing</li>
+					<li>Programming</li>
+				</ul></p>
+			</td>
+			<td style="background-color: rgb(162, 202, 206)"><P><b>Projects</b><br>
+				<ul>
+					<li><p> This project is based on html<br> & used React</p></li>
+					<li><p> This project is based on html<br> & used React</p></li>
+				</ul></P>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
