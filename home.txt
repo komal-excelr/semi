@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HOME PAGE</title>
+</head>
+<body>
+	<h2><p>Komal warpe<br>Studing in Deogiri institute of engineering<br>Branch:AIML</p></h2>
+	<h2><a href="index1.html">Back</a></h2>
+
+
+
+</body>
+</html>

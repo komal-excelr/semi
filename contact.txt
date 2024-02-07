@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>contact</title>
+</head>
+<body>
+	<h1>Address</h1>
+	<h2><p>Komal warpe<br>Plot no.1,Mayur park<br>Email:komal02@gmail.com<br>Mobile no.:984563673</p></h2>
+	<h2><a href="index1.html">Back</a></h2>
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>index</title>
+</head>
+<body>
+	<p>Text Attritude</p>
+	<h2><a href="home.html" target="_blank">Home page</a><br></h2>
+	<h2><a href="about.html" target="_self">About Us</a><br></h2>
+	<h2><a href="contact.html" target="_parent">Contact Us</a><br></h2>
+	<p>Image attribute</p>
+	<a href="home.html"><img src="im.jpg" width="5%" height="5%"> </a><br>
+	<a href="about.html"><img src="im1.jpg" width="5%" height="5%"></a><br>
+	<a href="contact.html"><img src="im3.jpg" width="5%" height="5%"></a><br>
+	<a href="mailto:komalw.newgitacc@gmail.com"><img src="send.jpg" width="5%" height="5%"></a>
+
+
+</body>
+</html>
