@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My First Page</title>
+</head>
+<body background="no.jpg" text="blue">
+	<p><marquee direction="right" bgcolor="pink">Welcome to HTML</marquee></p><br>
+	<u><h1>HTML stands for Hyper Text Markup Language</h1></u><br>
+	<b><h2>HTML is the standard markup language for creating Web pages</h2></b><br>
+	<i><h3>HTML describes the structure of a Web page</h3></i><br>
+	<p>log<sub>2</sub></p>
+	<p>x<sup>2</sup></p>
+	<font color="blue"><h4>HTML describes the structure of a Web page</h4></font><br>
+	<font size=10><h5>HTML elements tell the browser how to display the content</h5></font><br>
+	<font face="Times New Roman"><h6>All HTML elements can have attributes</h6></font><br>
+	<h3>Address</h3>
+	<p>Gajanan Warpe<br>near kalyani Apartment<br>Plot no.1 Shikshak society<br>Chhatrapati sambhajinagar<br></p>
+	<p>Gajanan Warpe</p>
+	<p>near kalyani Apartment</p>
+	<p>Shikshak society</p>
+	<p>Chhatrapati sambhajinagar</p>
+	<h1>Year</h1>
+	<ol type=I>
+		<li>FY</li>
+		<li>SY</li>
+		<li>TY</li>
+	</ol>
+	<h2>Ordered list</h2>
+	<ol type=i>
+		<li>Apple</li>
+		<li>Banana</li>
+		<li>Kiwi</li>
+		<li>Orange</li>
+	</ol>
+	<ol type=A>
+		<li>Apple</li>
+		<li>Banana</li>
+		<li>Kiwi</li>
+		<li>Orange</li>
+	</ol>
+	<ol type=a>
+		<li>Apple</li>
+		<li>Banana</li>
+		<li>Kiwi</li>
+		<li>Orange</li>
+	</ol>
+	<h2>Fruits</h2>
+	<ul>
+		<li>Apple</li>
+		<li>Banana</li>
+		<li>Kiwi</li>
+		<li>Orange</li>
+	</ul>
+	<h1>Unordered list</h1>
+	<ul type="square">
+		<li>91%</li>
+		<li>89%</li>
+		<li>81%</li>
+	</ul>
+	<ul type="circle">
+		<li>Apple</li>
+		<li>Banana</li>
+		<li>Kiwi</li>
+		<li>Orange</li>
+	</ul>
+	<table border="5" width="30%" height="70%" bgcolor="pink">
+		<tr>
+			<th>Sr.no.</th>
+			<th>Name</th>
+			<th>Mobile no.</th>
+		</tr>	
+		<tr>
+			<th>2101</th>
+			<th>Komal</th>
+			<th>8634527892</th>
+		</tr>
+		<tr>
+			<th>2102</th>
+			<th>Riya</th>
+			<th>8634527432</th>
+		</tr>
+		<tr>
+			<th>2103</th>
+			<th>Priya</th>
+			<th>86345275367</th>
+		</tr>
+		<tr>
+			<th>2174</th>
+			<th>Sneha</th>
+			<th>86345275347</th>
+		</tr>
+	</table>
+</body>
+</html>
