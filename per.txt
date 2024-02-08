@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Personal Info</title>
+</head>
+<body>
+	<p>Name:Komal Gajanan Warpe<br>
+	College:DIEMS<br>
+	Branch:AIML<br>
+	Age:19<br>
+	Mobile no.:8764578948<br>
+	Email:komal43@gmail.com<br>
+    Address:Phol no.1,Mayur park,<br>near kalyani Apartment,<br>Harsul,Chh. Sambhajinagar,431001</p> 
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Education Info</title>
+</head>
+<body>
+	<p>Name:Komal Gajanan Warpe<br>
+	College:DIEMS<br>
+	Branch:AIML<br>
+	Age:19<br>
+	Mobile no.:8764578948<br>
+	Email:komal43@gmail.com<br>
+    Address:Phol no.1,Mayur park,<br>near kalyani Apartment,<br>Harsul,Chh. Sambhajinagar,431001</p> 
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home page</title>
+</head>
+<body>
+	<table border="0" align="right" cellpadding="25" cellspacing="5">
+		<tr>
+			<td>
+	<a href="per.html">Personal Info</a></td>
+	<td><a href="edu.html">Education Info</a></td>
+	<td><a href="parent.html">Parent info</a></td>
+</tr>
+    </table>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Parent info</title>
+</head>
+<body>
+	<p>Name:Gajanan Warpe<br><br>
+	Education:MBA<br><br>
+	Occupation:LIC Agent<br><br>
+	Mobile no.:8764578948<br><br>
+	Email:gajanan43@gmail.com<br><br>
+    Address:Phol no.1,Mayur park,<br>near kalyani Apartment,<br><br>Harsul,Chh. Sambhajinagar,431001</p> 
+</body>
+</html>
