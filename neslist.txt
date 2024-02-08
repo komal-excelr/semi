@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Nested List</title>
+</head>
+<body>
+	<h1>Pragramming Language</h1>
+	<ul>
+		<li><h3>Java</h3></li>
+		<h4>
+			<ol>
+				<li>Datatype</li>
+				<ul type="circle">
+					<li>int</li>
+					<li>char</li>
+					<li>float</li>
+					<li>boolean</li>
+			    </ul>
+				<li>Keywords</li>
+				<ul type="square">
+					<li>class</li>
+					<li>if</li>
+					<li>for</li>
+					<li>break</li>
+					<li>continue</li>
+					<li>abstract</li>
+					<li>switch</li>
+			    </ul>
+			</ol>
+	    </h4>
+	</ul>
+
+	<ul type="square">
+		<li><h3>C</h3></li>
+		<h4>
+			<ol type="i">
+				<li>Datatype</li>
+				<ul type="circle">
+					<li>int</li>
+					<li>char</li>
+					<li>float</li>
+					<li>boolean</li>
+			    </ul>
+
+				<li>Keywords</li>
+				<ul type="square">
+					<li>if</li>
+					<li>goto</li>
+					<li>typedef</li>
+					<li>short</li>
+			    </ul>
+			</ol>
+	    </h4>
+	</ul>
+
+	<ul type="circle">
+		<li><h3>C++</h3></li>
+		<h4>
+			<ol type="A">
+				<li>Datatype</li>
+				<ul type="circle">
+					<li>int</li>
+					<li>char</li>
+					<li>float</li>
+					<li>boolean</li>
+			    </ul>
+			
+				<li>Keywords</li>
+				<ul type="square">
+					<li>operator</li>
+					<li>case</li>
+					<li>this</li>
+					<li>return</li>
+			    </ul>
+			</ol>
+	    </h4>
+	</ul>
+</body>
+</html>
