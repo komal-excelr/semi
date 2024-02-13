@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home page</title>
+</head>
+<body style="background-image: url(im1.jpg);width: 80%;height: 100%;">
+     <table border="0" style=" font-size: 120%; margin-top: 1%;" cellspacing="4" cellpadding="7">
+		<tr><ul>
+			<td><a href="per.html" style="color: rgb(0, 255, 255);" target="blank"><b><li>Personal Info</li></b></a></td>
+			<td><a href="parent.html" style="color: rgb(0, 255, 255);" target="blank"><b><li>Parent Info</li></b></a></td>
+			<td><a href="edu.html" style="color: rgb(0, 255, 255);"><b><li>Education Info</li></b></a></td></ul>
+		</tr>
+    </table>
+	<h1 style="margin-left: 45%;margin-top: 5%;font-size: 200%;color: white;"><b><u>Learning HTML</u></b></h1>
+	<h2 style="font-size: 160%;margin-top: 5%;color: rgb(0, 255, 191);" target="blank"><b>What is HTML?</b></h2>
+	<b>
+	<ul type="circle" style="font-size: 160%;color:rgb(0, 191, 255);">
+		<li>HTML is the standard markup language for Web pages.</li>
+		<li>With HTML you can create your own Website.</li>
+		<li>HTML is easy to learn - You will enjoy it</li>
+	    <li>HTML describes the structure of a Web page</li>
+	    <li>HTML consists of a series of elements</li>
+	    <li>HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.</li>
+	</ul></b>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Personal Info</title>
+</head>
+<body style="background-image: url(im3.jpg);width: 99%;">
+	<ul>
+	<h2><a href="experiment1.html" style="margin-left: 5%;color: rgb(0, 255, 255)"><li>Home</li></a></h2></h2>
+
+		<b><p style="margin-top: 5%; font-size: 130%;color: rgb(192,192,192);">Name:Komal Gajanan Warpe<br>
+		College:DIEMS<br>
+		Branch:AIML<br>
+		Age:19<br>
+		Mobile no.:8764578948<br>
+		Email:komal43@gmail.com<br>
+	    Address:Phol no.1,Mayur park,<br>near kalyani Apartment,<br>Harsul,Chh. Sambhajinagar,431001</p> 
+	    <p style="color: rgb(232,232,232); font-size: 130%;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod<br>
+	    tempor incididunt ut labore et dolore magna aliqua.<br> Ut enim ad minim veniam,
+	    quis nostrud exercitation ullamco<br> laboris nisi ut aliquip ex ea commodo
+	    consequat.</p></b>
+	
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Parent info</title>
+</head>
+<body style="background-image: url(im2.jpg);">
+	<ul>
+	<h2><a href="experiment1.html" style="margin-left: 5%;color: rgb(0, 255, 255);"><li>Home</li></a></h2></h2>
+			<h3><p style="color: rgb(179, 217, 255);margin-top: 5%; font-size: 110%;">Name:Gajanan Warpe<br>
+			Education:MBA<br>
+			Occupation:LIC Agent<br>
+			Mobile no.:8764578948<br>
+			Email:gajanan43@gmail.com<br>
+		    Address:Phol no.1,Mayur park,<br>near kalyani Apartment,<br>Harsul,Chh. Sambhajinagar,431001</p></h3>
+
+		    <h3><p style="color:rgb(153, 204, 255);margin-top: 5%; font-size: 110%;">Name:Alka Gajanan Warpe<br>
+			Education:10th pass<br>
+			Occupation:House wife<br>
+			Mobile no.:8764578948<br>
+			Email:alka43@gmail.com<br>
+		    Address:Phol no.1,Mayur park,<br>near kalyani Apartment,<br>Harsul,Chh. Sambhajinagar,431001</p></h3>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Education Info</title>
+</head>
+<body style="background-image: url(im6.jpg); width: 99%;">
+	<ul>
+	<h2><a href="experiment1.html" style="margin-left: 5%;color: rgb(31, 255, 255)"><li>Home</li></a></h2></h2>
+	<center>
+		<h1><p style="color: blue;margin-top: 8%;">Name:Komal Gajanan Warpe<br>
+		College:DIEMS<br>
+		Branch:AIML<br>
+		Age:19<br></p>
+	    <p style="color:rgb(31, 87, 255);">I have completed my diploma for MGM's Polytechnic.<br>My percentage warpe 81.76%.<br>In DIEMs its my Second year of 4th semester<br> </p></h1>
+	</center>
+</body>
+</html>
