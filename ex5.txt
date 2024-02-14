@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Index page</title>
+</head>
+<frameset rows="15%,70%,15%">
+	<frame src="header.html">Header page</frame>
+	<frame src="content.html">content page</frame>
+    <frame src="footer.html">Footer page</frame>
+</frameset>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Header Page</title>
+</head>
+<body>
+	<h1><center>What is HTML?</center></h1>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>content page</title>
+</head>
+<body>
+	<h2>Introduction</h2>
+	<ul>
+		<li>HTML stands for Hyper Text Markup Language</li>
+		<li>HTML is the standard markup language for creating Web pages</li>
+		<li>HTML describes the structure of a Web page</li>
+		<li>HTML consists of a series of elements</li>
+		<li>HTML elements tell the browser how to display the content</li>
+		<li>HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.</li>
+	</ul>
+	<h2>Attribute</h2>
+	<ul>
+		<li>All HTML elements can have attributes.</li>
+		<li>Attributes provide additional information about elements.</li>
+		<li>Attributes are always specified in the start tag.</li>
+		<li>Attributes usually come in name/value pairs like: name="value".</li>
+	</ul>
+
+	<h3>What is CSS</h3>
+	<p>Cascading Style Sheets (CSS) is used to format the layout of a webpage.
+     With CSS, you can control the color, font, the size of text, the spacing between elements, how elements are positioned and laid out, what background images or background colors are to be used, different displays for different devices and screen sizes, and much more!</p>
+     <h4>Using CSS</h4>
+     <ol>
+     	<li>Inline - by using the style attribute inside HTML elements</li>
+     	<li>Internal - by using a style element in the head section </li>
+     	<li>External - by using a <link> element to link to an external CSS file</li>
+     </ol>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Footer page</title>
+</head>
+<body>
+	<center><a href="https://www.google.com/"><b>Google</b></a>
+	<a href="gmail.com">Gmail</a>
+	<a href="home.html">Home page</a>
+	<a href="https://www.w3schools.com/html/html_css.asp">W3School</a></center>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>1st layout</title>
+</head>
+<frameset rows="25%,75%">
+	<frame src="home.html">Home page</frame>
+	  <frameset cols="20%,80%">
+	  	 <frame src="about.html"></frame>
+	  	 <frame src="contact.html"></frame>
+	  </frameset>
+</frameset>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>2nd layout</title>
+</head>
+<frameset rows="25%,50%,25%">
+	<frame src="header.html"></frame>
+		<frameset cols="30%,70%">
+			<frame src="im.jpg"></frame>
+			<frame src="im3.jpg"></frame>
+		</frameset>
+	<frame src="edu.html"></frame>
+</frameset>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>3rd layout</title>
+</head>
+<frameset rows="50%,50%">
+	<frameset cols="50%,50%">
+			<frame src="im.jpg"></frame>
+			<frame src="im.jpg"></frame>
+		</frameset>
+		<frameset cols="50%,50%">
+			<frame src="im.jpg"></frame>
+			<frame src="im.jpg"></frame>
+		</frameset>
+	
+</frameset>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>4th layout</title>
+</head>
+<frameset rows="50%,50%">
+	<frameset cols="70%,30%">
+		<frame src="home.html"></frame>
+		<frame src="home.html"></frame>
+	</frameset>
+	<frameset cols="25%,75%">
+		<frame src="home.html"></frame>
+		<frame src="home.html"></frame>
+	</frameset>
+</frameset>
+</html>
