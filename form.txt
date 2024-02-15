@@ -38,3 +38,83 @@
     </table>
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Register form</title>
+</head>
+<body>
+	<table border="1" cellpadding="2" cellspacing="5">
+		<tr>
+			<th colspan="2">Registration form</th>
+		</tr>
+		<tr>
+			<td>First name </td>
+			<td><input type="text" name=""/></td>
+		</tr>
+		<tr>
+			<td>middle name </td>
+			<td><input type="text" name=""/></td>
+		</tr>
+		<tr>
+			<td>First name </td>
+			<td><input type="text" name=""/></td>
+		</tr>
+		<tr>
+			<td>User Id </td>
+			<td><input type="text" name=""/></td>
+		</tr>
+		<tr>
+			<td>Password </td>
+			<td><input type="text" name=""/></td>
+		</tr>
+		<tr>
+			<td>Confirm password </td>
+			<td><input type="password" name=""/></td>
+		</tr>
+		<tr>
+			<td>Mini project </td>
+			<td><textarea  rows="5" cols="30">Explain Mini Project
+		</textarea></td>
+		</tr>
+		<tr>
+			<td colspan="2">Enter Skills you know:<br>
+			<input type="checkbox" name="c" checked>C
+			<input type="checkbox" name="c++">C++
+			<input type="checkbox" name="java">Java
+			<input type="checkbox" name="php">PHP</td>
+	    </tr>
+	    <tr>
+	    	<td colspan="2">Gender<br>
+	    	<input type="radio" name="lang">Male<br>
+		<input type="radio" name="lang" checked>Female<br></td>
+	    </tr>
+	    <tr>
+	    	<td>Select Subjets</td>
+	    	<td>
+	    		<select name="Subjects">
+					<option value=""></option>
+					<option value="OS">Operating System</option>
+					<option value="DAA">DAA</option>
+					<option value="DLDM">DLDM</option>
+					<option value="Py">Python</option>
+					<option value="BHR">BHR</option>
+		       </select>
+	    	</td>
+	    </tr>
+	    <tr>
+	    	<td>Upload Files</td>
+	    	<td>
+	    		<input type="file" name="fi_le" accept="C:\2173"/><br>
+	    	</td>
+	    </tr>
+	    <tr>
+	    	<td><input type="submit" name="submit"/></td>
+		    <td><input type="reset" name="reset"/></td>
+	    </tr>
+	</table>
+
+</body>
+</html>
