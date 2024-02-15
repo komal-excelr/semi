@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registration Form</title>
+</head>
+<body>
+	<form action="home.html">
+	    First name  <input type="text" name=""/><br>
+	    middle name <input type="text" name=""/><br>
+		Last name   <input type="text" name=""/><br>
+		User ID     <input type="text" name=""/><br>
+		password    <input type="text" name=""/><br>
+		Confirm password  <input type="password" name=""/><br>
+		<textarea  rows="5" cols="30">Explain Mini Project
+		</textarea><br>
+		Enter Skills you know:<br>
+		<input type="checkbox" name="c" checked>C<br>
+		<input type="checkbox" name="c++">C++<br>
+		<input type="checkbox" name="java">Java<br>
+		<input type="checkbox" name="php">PHP<br>
+		Gender<br>
+		<input type="radio" name="lang">Male<br>
+		<input type="radio" name="lang" checked>Female<br>
+		Select subjects:<br>
+		<select name="Subjects" size="4" multiple>
+			<option value=""></option>
+			<option value="OS">Operating System</option>
+			<option value="DAA">DAA</option>
+			<option value="DLDM">DLDM</option>
+			<option value="Py">Python</option>
+			<option value="BHR">BHR</option>
+		</select><br>
+		Upload file:<br>
+		<input type="file" name="fi_le" accept="C:\2173"/><br>
+		<input type="submit" name="submit"/>
+		<input type="reset" name="reset"/>
+	</form>
+    </table>
+</body>
+</html>
