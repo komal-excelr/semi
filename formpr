@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Register form</title>
+</head>
+<body>
+	<table border="0" cellpadding="4" cellspacing="3" style="margin-left: 35%; margin-top: 2%; background-color: rgb(126, 219, 231); ">
+		<form>
+		<tr>
+			<th colspan="2" style="color: rgb(255, 255, 0); font-size: 120%;"><u><i>Registration form</u></i></th>
+		</tr>
+		<tr>
+			<td style="color: rgb(255, 255, 0);font-size: 110%;">First name </td>
+			<td><input type="text" name=""/></td>
+		</tr>
+		<tr>
+			<td style="color: rgb(255, 255, 0);font-size: 110%;">middle name </td>
+			<td><input type="text" name=""/></td>
+		</tr>
+		<tr>
+			<td style="color: rgb(255, 255, 0);font-size: 110%;">Last name </td>
+			<td><input type="text" name=""/></td>
+		</tr>
+		<tr>
+			<td style="color: rgb(255, 255, 0);font-size: 110%;">User Id </td>
+			<td><input type="text" name=""/></td>
+		</tr>
+		<tr>
+			<td style="color: rgb(255, 255, 0);font-size: 110%;">Password </td>
+			<td><input type="text" name=""/></td>
+		</tr>
+		<tr>
+			<td style="color: rgb(255, 255, 0);font-size: 110%;">Confirm password </td>
+			<td><input type="password" name=""/></td>
+		</tr>
+		<tr>
+			<td style="color:rgb(255, 255, 0);font-size: 110%;">Mini project </td>
+			<td><textarea  rows="5" cols="30">
+		</textarea></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="color: rgb(255, 255, 0);font-size: 110%;">Enter Skills you know:<br>
+			<input type="checkbox" name="c">C
+			<input type="checkbox" name="c++">C++
+			<input type="checkbox" name="java">Java
+			<input type="checkbox" name="php">PHP</td>
+	    </tr>
+	    <tr>
+	    	<td colspan="2" style="color: rgb(255, 255, 0);font-size: 110%;">Gender<br>
+	    	<input type="radio" name="lang">Male<br>
+		<input type="radio" name="lang">Female<br></td>
+	    </tr>
+	    <tr>
+	    	<td colspan="2" style="color:rgb(255, 255, 0);font-size: 110%;">Select Subjets<br>
+	    		<select name="Subjects">
+					<option value=""></option>
+					<option value="OS">Operating System</option>
+					<option value="DAA">DAA</option>
+					<option value="DLDM">DLDM</option>
+					<option value="Py">Python</option>
+					<option value="BHR">BHR</option>
+		       </select>
+	    	</td>
+	    </tr>
+	    <tr>
+	    	<td colspan="2" style="color: rgb(255, 255, 0);font-size: 110%;">Upload Files<br>
+	    		<input type="file" name="fi_le" accept="C:\2173"/><br>
+	    	</td>
+	    </tr>
+	    <tr>
+	    	<td colspan="2" style="color: rgb(255, 255, 0);"><center><input type="submit" name="submit" />
+		    <input type="reset" name="reset"/></td></center>
+	    </tr>
+	</form>
+	</table>
+
+</body>
+</html>
