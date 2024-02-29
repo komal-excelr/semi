@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Experiment no. 6</title>
+	<style>
+		table{
+			margin-top: 3%;
+			margin-left: 28%;
+			background-color: white;
+			border-color: black;
+			width: 40%;
+		}
+		th{
+			color: red;
+			background-color: rgb(240, 230, 140);
+			font-size: 24px;
+		}
+		td{
+			font-size: 18px;
+		}
+		select{
+			width: 40%;
+		}	
+		#btn1{
+			width: 30%;
+			height: 30px;
+			margin-left: 4%;
+		}
+		#btn2{
+			width: 30%;
+			height: 30px;
+		}
+		#btn3{
+			width: 30%;
+			height: 30px;
+		}
+	</style>
+</head>
+<body>
+	<form>
+	<table border="3" cellpadding="7"  cellspacing="5">
+		<tr>
+			<th colspan="2">Registration Form</th>
+		</tr>
+		<tr>
+			<td style="background-color:rgb(0, 191, 255)">Enter Name</td>
+			<td style="background-color:rgb(0, 191, 255)"><input type="text"></td>
+		</tr>
+		<tr>
+			<td style="background-color:rgb(0, 191, 255)">Enter Password</td>
+			<td style="background-color:rgb(0, 191, 255)"><input type="password"></td>
+		</tr>
+		<tr>
+			<td style="background-color:rgb(0, 191, 255)">Enter Address</td>
+			<td style="background-color:rgb(0, 191, 255)"><textarea rows="5" cols="21"></textarea></td>
+		</tr>
+		<tr>
+			<td style="background-color:rgb(0, 191, 255)">Select Games</td>
+			<td style="background-color:rgb(0, 191, 255)"><input type="checkbox">Hockey<br>
+				<input type="checkbox">Football<br>
+			    <input type="checkbox">Badminton<br>
+		        <input type="checkbox">Cricket<br>
+	            <input type="checkbox">Volleyball<br>
+	        </td>
+		</tr>
+		<tr>
+			<td style="background-color:rgb(0, 191, 255)">Gender</td>
+			<td style="background-color:rgb(0, 191, 255)"><input type="radio">Male
+			    <input type="radio">Female
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:rgb(0, 191, 255)">Select ur age</td>
+			<td style="background-color:rgb(0, 191, 255)"><select name="age">
+					<option value="select">Select</option>
+					<option value="select">19</option>
+					<option value="select">20</option>
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:rgb(0, 191, 255)">Select photo</td>
+			<td style="background-color:rgb(0, 191, 255)"><input type="file"></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:rgb(0, 191, 255)"><input id="btn1" type="button"  value="Click Me">
+				<input id="btn2" type="reset"  value="Reset">
+				<input id="btn3" type="submit"  value="Submit form">
+			</td>
+		</tr>
+	</table>
+    </form>
+</body>
+</html>
